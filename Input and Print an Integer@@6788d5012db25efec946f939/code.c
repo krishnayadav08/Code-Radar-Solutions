@@ -2,8 +2,8 @@
 
 int main(){
     int a;
-    printf("%d",a);
-    scanf("%d",a);
+    printf("You enetered: %d\n",a);
+    scanf("%d",&a);
     return 0;
 
 
