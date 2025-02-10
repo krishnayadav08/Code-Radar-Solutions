@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int a;
-    scanf("%d", &a);
-    printf("You enetered: %d\n", a);
+    char str;
+    scanf("%c", &a);
+    printf("You enetered: %c\n", a);
     return 0;
 
 
